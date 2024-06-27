@@ -23,3 +23,5 @@ This project aims to develop a comprehensive and detailed dashboard for monitori
 3. **Data Visualization**: Plotly for creating interactive and visually appealing graphs and charts.
 4. **Backend Development**: Python for server-side logic.
 5. **MDM Integration**: APIs provided by Scalefusion MDM for accessing device data.
+
+![image](https://github.com/Yacine-BJ/DeviceDashboard/assets/161167264/11312f23-ea24-4919-a5a7-4be952cab6a3)
