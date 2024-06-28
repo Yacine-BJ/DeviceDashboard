@@ -5,7 +5,6 @@ This project aims to develop a comprehensive and detailed dashboard for monitori
 1. **Real-Time Device Monitoring**: Implement real-time tracking and monitoring of devices to ensure timely updates on their status, location, and performance metrics.
 2. **Usage Analytics**: Provide detailed usage analytics to understand how devices are being utilized, including app usage, data consumption, and user behavior patterns.
 3. **Health and Performance Metrics**: Develop predictive models using AI to anticipate potential issues and provide insights into the health and performance of the devices.
-4. **Customizable Reports**: Allow users to generate and customize reports based on specific criteria, facilitating better decision-making and strategic planning.
 
 #### Key Features
 1. **Interactive Dashboard**: A user-friendly and interactive dashboard built with Python Dash that provides a high-level overview as well as detailed insights into various aspects of device management.
@@ -23,7 +22,7 @@ This project aims to develop a comprehensive and detailed dashboard for monitori
 3. **Data Visualization**: Plotly for creating interactive and visually appealing graphs and charts.
 4. **Backend Development**: Python for server-side logic.
 5. **MDM Integration**: APIs provided by Scalefusion MDM for accessing device data.
-
+#### Dashboard Video Link
 https://drive.google.com/file/d/1iCKjGpzdLXQH5HJDSzsnxuwqGw96Sw3s/view?usp=drive_link
 
 ![image](https://github.com/Yacine-BJ/DeviceDashboard/assets/161167264/11312f23-ea24-4919-a5a7-4be952cab6a3)
