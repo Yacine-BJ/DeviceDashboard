@@ -24,4 +24,6 @@ This project aims to develop a comprehensive and detailed dashboard for monitori
 4. **Backend Development**: Python for server-side logic.
 5. **MDM Integration**: APIs provided by Scalefusion MDM for accessing device data.
 
+https://drive.google.com/file/d/1iCKjGpzdLXQH5HJDSzsnxuwqGw96Sw3s/view?usp=drive_link
+
 ![image](https://github.com/Yacine-BJ/DeviceDashboard/assets/161167264/11312f23-ea24-4919-a5a7-4be952cab6a3)
